@@ -1,24 +1,3 @@
-# Network Security Analyst Portfolio
-
-Welcome to my Network Security Analyst Portfolio.  
-This repository contains a collection of hands-on projects and exercises that demonstrate my progress in network security, threat detection, and network monitoring.  
-It showcases my ability to apply practical tools and techniques in real-world security analysis.
-
----
-
-## Portfolio Structure
-
-| Folder | Description |
-|:--|:--|
-| **Day1_Intro-to-Networks** | Covers the basics of networking, IP addressing, and subnetting. |
-| **Day2_OSI-Network-Scanning** | Introduces the OSI model and practical network scanning concepts. |
-| **Day3_Nmap-Scan** | Focuses on host discovery and service enumeration using Nmap. |
-| **Day4_Nmap-Analysis** | Analyzes scan results, open ports, and potential vulnerabilities. |
-| **Day5_6_Firewall-Wireshark** | Involves firewall configuration, rule testing, and packet analysis using Wireshark. |
-| **IDS_Project** | creating snort ids rules to detect ICMP ping and HTTP GET requests, simulating real-world network intrustion alerts
-| **Projects** | Contains completed reports and documentation from all stages of the portfolio. |
-
----
 
 ## Tools and Technologies
 
@@ -29,33 +8,6 @@ It showcases my ability to apply practical tools and techniques in real-world se
 - Snort(detect and prevent network intrusion)
 - Git and GitHub (version control and collaboration)  
 - Markdown and Word (reporting and documentation)
-
----
-
-## Sample Deliverables
-
-This portfolio includes examples of:
-- Nmap scan reports  
-- Wireshark capture results  
-- Firewall rule configurations
-- Spluck
-- Snort
-- Project documentation and summaries
-
----
-## Simulation Note
-
-The Snort IDS rules for detecting ICMP ping and HTTP GET requests were developed and tested in a Windows environment. While full live execution on Windows was limited, the expected alerts are shown in the simulated output. I am committed to mastering this setup and will deploy and validate these rules fully on a Linux environment in the near future.
-
----
-
-## Learning Objectives
-
-Through this portfolio, I aim to:
-- Strengthen my understanding of network security principles  
-- Apply practical tools to detect and prevent network threats  
-- Improve my documentation and analytical reporting skills  
-- Build experience suitable for junior-level network security roles
 
 ---
 
