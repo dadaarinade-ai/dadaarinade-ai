@@ -1,6 +1,6 @@
 # Hi, I’m Arinade 👋🏽  
 
-**Aspiring Network Security Analyst | SOC Analyst (Tier 1)**  
+** CyberSecurity Analyst | Network security engineer**  
 BSc Computer Science  
 Passionate about Network Security, Blue Teaming & Threat Detection  
 ---
